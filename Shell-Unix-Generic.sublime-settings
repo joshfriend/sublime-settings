@@ -1,0 +1,9 @@
+{
+	"extensions":
+	[
+		"zsh-theme",
+		".zshrc",
+		".zsh_aliases",
+		"_python"
+	]
+}

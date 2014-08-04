@@ -1,0 +1,24 @@
+{
+	"installed_packages":
+	[
+		"ARM Assembly",
+		"Emmet",
+		"GitHub Flavored Markdown Preview",
+		"INI",
+		"Jade",
+		"Jinja2",
+		"Markdown Extended",
+		"Markdown Preview",
+		"Modific",
+		"Pretty JSON",
+		"Solarized Color Scheme",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-pep257",
+		"SublimeLinter-pep8",
+		"SublimeLinter-pylint",
+		"Theme - Flatland",
+		"Theme - Soda",
+		"VCS Gutter"
+	]
+}

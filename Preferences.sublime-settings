@@ -1,0 +1,70 @@
+{
+	"bold_folder_labels": true,
+	"caret_style": "blink",
+	"close_windows_when_empty": false,
+	"color_scheme": "Packages/User/Solarized (dark) (SL).tmTheme",
+	"default_line_ending": "unix",
+	"ensure_newline_at_eof_on_save": true,
+	"file_exclude_patterns":
+	[
+		"*.pyc",
+		"*.pyo",
+		"*.exe",
+		"*.dll",
+		"*.obj",
+		"*.o",
+		"*.d",
+		"*.a",
+		"*.lib",
+		"*.so",
+		"*.dylib",
+		"*.ncb",
+		"*.sdf",
+		"*.suo",
+		"*.pdb",
+		"*.idb",
+		".DS_Store",
+		"*.class",
+		"*.psd",
+		"*.db",
+		"*.jpg",
+		"*.xlsx",
+		"*.docx",
+		"*.xls",
+		"*.doc",
+		".keep",
+		"*.bin",
+		"*.elf",
+		"*.map",
+		"*.hex"
+	],
+	"find_selected_text": true,
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		"CVS",
+		"tmp",
+		".bundle"
+	],
+	"font_face": "Monaco",
+	"font_options":
+	[
+		"no_antialias"
+	],
+	"font_size": 9.0,
+	"ignored_packages":
+	[
+		"VintageEx",
+		"Vintage",
+		"SublimeGDB"
+	],
+	"margin": 0,
+	"scroll_past_end": false,
+	"theme": "Soda Dark 3.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"use_simple_full_screen": true,
+	"vintageex_osx_terminal": "bash"
+}
