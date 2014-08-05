@@ -49,11 +49,7 @@
 		".bundle"
 	],
 	"font_face": "Monaco",
-	"font_options":
-	[
-		"no_antialias"
-	],
-	"font_size": 9.0,
+	"font_size": 11,
 	"ignored_packages":
 	[
 		"VintageEx",
