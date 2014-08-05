@@ -1,0 +1,19 @@
+{
+    // save before running commands
+    "save_first": true,
+
+    // if present, use this command instead of plain "git"
+    // e.g. "/Users/kemayo/bin/git" or "C:\bin\git.exe"
+    "git_command": false,
+
+    // Use --verbose flag for commit messages
+    "verbose_commits": true,
+
+    // Annotations default to being on for all files. Can be slow in some cases.
+    "annotations": false,
+
+    // statusbar
+    "statusbar_branch": false,
+    // Symbols for quick git status in status bar
+    "statusbar_status": false,
+}
