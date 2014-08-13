@@ -36,7 +36,10 @@
 		"*.bin",
 		"*.elf",
 		"*.map",
-		"*.hex"
+		"*.hex",
+		"*.sublime-workspace",
+		"*.ico",
+		"*.zip",
 	],
 	"find_selected_text": true,
 	"folder_exclude_patterns":
@@ -46,15 +49,28 @@
 		".hg",
 		"CVS",
 		"tmp",
-		".bundle"
+		".bundle",
+		"__pycache__",
+		"env",
+		"venv",
+		".ropeproject",
+		".idea",
+		"bower_components",
+		".bower-tmp",
+		".bower_cache",
+		".bower_registry",
+		".sass-cache",
+		".tmp",
+		"node_modules",
+		"dist"
 	],
 	"font_face": "Monaco",
 	"font_size": 11,
 	"ignored_packages":
 	[
-		"VintageEx",
+		"SublimeGDB",
 		"Vintage",
-		"SublimeGDB"
+		"VintageEx"
 	],
 	"margin": 0,
 	"scroll_past_end": false,
