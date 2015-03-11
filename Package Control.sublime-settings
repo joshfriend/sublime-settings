@@ -1,25 +1,33 @@
 {
+	"in_process_packages":
+	[
+	],
 	"installed_packages":
 	[
+		"ApacheConf.tmLanguage",
+		"API Blueprint",
 		"ARM Assembly",
-		"Emmet",
+		"Git",
 		"GitHub Flavored Markdown Preview",
+		"Gradle_Language",
 		"INI",
-		"Jade",
+		"Jedi - Python autocompletion",
 		"Jinja2",
+		"LineEndings",
 		"Markdown Extended",
 		"Markdown Preview",
 		"Modific",
+		"Package Control",
 		"Pretty JSON",
 		"Sass",
-		"Solarized Color Scheme",
-		"SublimeCodeIntel",
 		"SublimeLinter",
+		"SublimeLinter-flake8",
+		"SublimeLinter-jshint",
 		"SublimeLinter-pep257",
 		"SublimeLinter-pep8",
-		"SublimeLinter-pylint",
 		"Theme - Flatland",
+		"Theme - Nexus",
 		"Theme - Soda",
-		"VCS Gutter"
+		"Verilog"
 	]
 }

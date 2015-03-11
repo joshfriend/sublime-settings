@@ -1,0 +1,8 @@
+{
+    // You can use your commands instead of plain "git" or "svn"
+    // e.g. "/usr/bin/git" or "C:\bin\git.exe"
+    "vcs": [
+        {"name": "git", "dir": ".git", "cmd": "/opt/boxen/homebrew/bin/git"},
+        {"name": "hg", "dir": ".hg", "cmd": "/opt/boxen/homebrew/bin/hg"}
+    ]
+}
