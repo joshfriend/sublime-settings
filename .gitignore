@@ -2,6 +2,7 @@
 *.system-ca-bundle
 *.tmTheme
 *.cache/
+*.bak
 sublimetext2-apiary-blueprint
 
 Package Control.merged-ca-bundle

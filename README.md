@@ -13,7 +13,7 @@ before continuing. Open a shell there and perform the following steps:
 
 ```bash
 # Remove existing settings
-$ cd ~/Library/Application Support/Sublime Text 3/Packages/User
+$ cd ~/Library/Application\ Support/Sublime\ Text\ 3/Packages
 $ rm -r User
 
 # Clone new settings
